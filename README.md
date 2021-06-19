@@ -1,6 +1,6 @@
 <p align="center">
 <b>Tic-Tac-Toe </b> Electron Desktop App
-=
+
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@ Classic Tic-Tac-Toe game; You can locally play against other players or match ag
 - While playing 🎲, you can also <b>disable</b>❌the computer 🤖 making moves
 
 </p>
-=
+
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@ Classic Tic-Tac-Toe game; You can locally play against other players or match ag
 </p>
 
 <p align="center">
-===
+
 </p>
 
 <p align="center">
